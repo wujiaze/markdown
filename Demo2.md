@@ -30,8 +30,7 @@
 ![baidu](https://www.baidu.com/img/bd_logo1.png "百度网站")
 
 - 本地图片
-<!-- 可以将图片先保存在markdown文件夹下面 -->
-<!-- push上去再试试，不行就把图片放在hbuilder文件夹下面？？？  -->
+<!-- 可以将图片先保存在markdown文件夹，并且需要push到github上   -->
 ![本地图片](desktop.jpg "桌面")  
 
 - 引用式
@@ -61,20 +60,12 @@ string str ="块式代码";
 ```
 
 - 行内代码
-<!-- 用单个反引号 -- >
+<!-- 用单个反引号 -->
 这一行中有行式代码  `string x ="dd"` 这句话
 
-
-
-
-
-
-
-
-
-
 ## 测试块 demo
-<!--一般将文档中的引用链接放在最下面，这样看的整洁有序 -->
+
+<!-- 一般将文档中的引用链接放在最下面，这样看的整洁有序 -->
 [百度网址]: http://baidu.com
 [baidu]: http://baidu.com
 [Demo1]: Demo1.md
