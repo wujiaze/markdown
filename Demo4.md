@@ -18,7 +18,8 @@
 [百度](https://www.baidu.com)
 [百度][baidu]
 
-基本图片：    
+
+基本图片:  
     ![alt](Url text)    
 ![百度图片](https://www.baidu.com/img/bd_logo1.png  "百度网站")
 ![百度图片][baiduImg]
